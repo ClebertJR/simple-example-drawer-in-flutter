@@ -1,17 +1,3 @@
-# exercicio_pratico_clebert_jr
+# Exemplo de Widget Drawer em Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-drawer-simple-example
+<img src="https://github.com/ClebertJR/pedra-papel-tesoura-flutter-app/assets/95129252/636b96a5-a52c-4e8c-93f8-fd3c9b4c8d56" width="250px"/>
